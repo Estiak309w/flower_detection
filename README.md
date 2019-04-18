@@ -1,9 +1,7 @@
 # flower_detection
 ## tools and library ##
 Jupyter Notebook, pandas, scikit learn, matplotlibray,PILL
-## Dataset Description ##
-An open source dataset which was collected from kaggle website## tools and library ##
-Jupyter Notebook, pandas, scikit learn, matplotlibrary
+
 ## Dataset Description ##
 An open source dataset which was collected from kaggle website https://www.kaggle.com/alxmamaev/flowers-recognition
 ## Project Description ##
